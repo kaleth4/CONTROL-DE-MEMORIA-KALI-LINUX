@@ -1,9 +1,13 @@
 
 <div align="center">
----------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Control de Memoria Kali Linux
 Optimización de Bajo Nivel y Gestión de Recursos con C
----------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
     
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
@@ -17,7 +21,7 @@ Una herramienta ligera y directa que interactúa con el kernel de Linux a travé
 </div>
 
 📋 Tabla de Contenidos
-✨ Características Principales
+
 
 🎯 ¿Por qué usar C para esto?
 
