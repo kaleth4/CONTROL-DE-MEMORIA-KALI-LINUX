@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 <img src="https://img.shields.io/badge/Kernel_Level-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Kernel">
 <img src="https://img.shields.io/badge/Root_Required-FF0000?style=for-the-badge&logo=sudo&logoColor=white" alt="Root">
-![Python](https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Root">
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Control de Memoria Kali Linux
 Optimización de Bajo Nivel y Gestión de Recursos con C
