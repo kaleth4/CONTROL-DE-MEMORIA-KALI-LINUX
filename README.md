@@ -1,4 +1,4 @@
-Gemini ha dicho
+
 <div align="center">
 
 🧠 Control de Memoria Kali Linux
@@ -67,7 +67,7 @@ Mientras que un script en Python podría realizar una tarea similar, el intérpr
 💻 Código de Optimización
 Este programa requiere privilegios de root porque necesita escribir en los archivos de configuración del kernel en tiempo real.
 
-C
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -99,6 +99,8 @@ int main() {
 
     return 0;
 }
+
+---------------------------
 🚀 Compilación y Ejecución
 Para poner en marcha esta herramienta en tu entorno Kali Linux, sigue estos sencillos pasos:
 
