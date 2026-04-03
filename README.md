@@ -3,7 +3,7 @@
 C interactúa directamente con el kernel de Linux a través de llamadas al sistema (syscalls). Aquí tienes un ejemplo de cómo se estructuraría un programa en C para realizar una tarea de optimización crítica: limpiar la memoria caché del sistema y ajustar la prioridad de procesos (OOM Killer).
 Código en C para Optimización de Memoria (Limpieza de Caché)
 Este programa requiere privilegios de root porque interactúa con el sistema de archivos /proc.
-
+´´´bash
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -36,6 +36,8 @@ int main() {
 
     return 0;
 }
+
+´´´
 
 Usa el código con precaución.
 
