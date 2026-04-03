@@ -130,7 +130,7 @@ Gestión de Memoria (Stack vs Heap): Este programa opera casi enteramente en el 
 🛠️ Técnicas para Auditorías Pesadas
 Si tu objetivo es que Kali funcione de manera impecable durante un ataque de fuerza bruta o un escaneo masivo de red, complementa este script con estas tres técnicas de bajo nivel:
 
-<div align="center">
+<div align="right">
 
 Técnica	Objetivo	Implementación
 🎯 Ajuste del OOM Score	Evitar que el OOM Killer cierre tus herramientas	Escribir -1000 en /proc/[PID]/oom_score_adj. Le dice al kernel: "No mates este proceso aunque te quedes sin RAM".
@@ -139,7 +139,7 @@ Técnica	Objetivo	Implementación
 </div>
 
 ⚠️ Advertencia y Precauciones
-<div align="center">
+<div align="right">
 
 🛡️ USA CON PRECAUCIÓN EN PRODUCCIÓN
 </div>
