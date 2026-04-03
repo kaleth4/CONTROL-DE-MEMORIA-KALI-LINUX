@@ -1,5 +1,5 @@
 
-<div align="right">
+<div align="left">
     
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
@@ -130,7 +130,7 @@ Gestión de Memoria (Stack vs Heap): Este programa opera casi enteramente en el 
 🛠️ Técnicas para Auditorías Pesadas
 Si tu objetivo es que Kali funcione de manera impecable durante un ataque de fuerza bruta o un escaneo masivo de red, complementa este script con estas tres técnicas de bajo nivel:
 
-<div align="right">
+<div align="left">
 
 Técnica	Objetivo	Implementación
 🎯 Ajuste del OOM Score	Evitar que el OOM Killer cierre tus herramientas	Escribir -1000 en /proc/[PID]/oom_score_adj. Le dice al kernel: "No mates este proceso aunque te quedes sin RAM".
@@ -139,7 +139,7 @@ Técnica	Objetivo	Implementación
 </div>
 
 ⚠️ Advertencia y Precauciones
-<div align="right">
+<div align="left">
 
 🛡️ USA CON PRECAUCIÓN EN PRODUCCIÓN
 </div>
